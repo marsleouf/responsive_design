@@ -1,0 +1,12 @@
+menu swap
+taille titre article
+menu par catégorie
+
+
+smashing magazine
+
+double menu principal
+			news letter
+menu catégorie artcile (# -> tag) dans la section derniere actus
+
+javascript - fenetre popup pour newsletter
